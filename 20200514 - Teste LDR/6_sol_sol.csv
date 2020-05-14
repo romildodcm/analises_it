@@ -1,4 +1,4 @@
-Tempo, Tensão LDR 1, Tensão LDR 2
+time_ms, ldr_signal_1, ldr_signal_2
 0,1009,1010
 50,1009,1011
 101,1008,1011
